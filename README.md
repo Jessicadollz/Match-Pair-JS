@@ -1,5 +1,5 @@
 # Match Pair Game
-[Hosted Link]()
+[Hosted Link](https://jessicadollz.github.io/Match-Pair-JS/)
 
 The Match Pair Game is a simple and interactive memory game where players need to find matching pairs of fruit cards. The game shuffles cards, tracks the number of attempts, and provides a winning message upon completion. This project is built using HTML, CSS, and JavaScript.
 
@@ -20,4 +20,4 @@ The Match Pair Game is a simple and interactive memory game where players need t
 
 ## Hosted Link
 
-You can play the Match Pair Game online by visiting the [hosted link]().
+You can play the Match Pair Game online by visiting the [hosted link](https://jessicadollz.github.io/Match-Pair-JS/).
